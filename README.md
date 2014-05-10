@@ -1,4 +1,4 @@
 android_device_samsung_e120k-du
 ===============================
 
-Device for DirtyUnicorns KitKat
+Device for DirtyUnicorns KitKat.
